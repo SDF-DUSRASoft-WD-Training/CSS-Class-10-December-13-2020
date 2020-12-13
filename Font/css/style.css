@@ -1,0 +1,17 @@
+@font-face{
+    font-family: shanto;
+    src: url(SundayMorning.ttf);
+}
+
+@font-face{
+    font-family: Goni;
+    src: url(../font/AlmondNougat.ttf);
+}
+
+body{
+    font-family: shanto;
+}
+
+h3{
+    font-family: Goni;
+}
